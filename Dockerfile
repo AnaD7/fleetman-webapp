@@ -1,6 +1,6 @@
 FROM nginx:1.14.0-alpine
 
-MAINTAINER Richard Chesterwood "richard@inceptiontraining.co.uk"
+MAINTAINER Ana Drvoshanova "ana.drvoshanova@outlook.com"
 
 RUN apk --no-cache add \
       python2 \
